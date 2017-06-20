@@ -26,3 +26,28 @@ Usted ha sido contratado para implementar un sistema de comandas en la cafeterí
 Se le solicita listar mediante un cuadro de 10 requerimientos funcionales y 10 requerimientos no funcionales que ud pudo desprender del texto anterior.
 
 Adicionalmente detalle 10 requerimientos no funcionales más que usted considere que este sistema debería de tomar en cuenta.
+
+Funcionalidades Generales
+
+--Dividir Cuentas y Unir Cuentas
+--Facturacion $ o Colones
+--Medio de Pago TarjCredito o TarjDebito
+--Poder Facturar 5 comandas al mismo tiempo
+--Consulta de Gerente desde cualquier parte (< 1 seg)
+--Control de Usuario (Usuario -Clave)
+--Recetas Encriptadas
+--Sistema de Fidelidad
+--Tarjeta Electronica de Puntos
+--Consulta Web de cafes tomados
+--Servidor
+--Base de Datos
+--Infraestructura Red
+
+
+
+Adicionales
+--Acceso Web al Menu
+--Acceso Web a comprar express
+--Conexion al webserver del BancoCentral para actualizacion automatica del tipo cambio de $
+--envio de Factura por Correo Electronico
+--
