@@ -1,0 +1,28 @@
+Instrucciones
+
+ ●  Para lograr esta tarea, usted debe leer todo el material relacionado con los temas 1. ● Luego de leído y analizado todos estos capítulos, debe realizar los siguientes ítems, y presentar todos juntos en un documento Word. Este documento debe subirlo en la sección de tarea de Moodle.
+
+ 
+Enunciado
+
+Para lograr esta tarea, usted debe leer todo el material relacionado con el tema 1
+
+Luego de leído y analizado todos estos capítulos, debe realizar los siguientes ítems, y presentar todos juntos en un documento Word. Este documento debe subirlo en la sección de tarea de Moodle.
+
+ 
+
+Usted ha sido contratado para implementar un sistema de comandas en la cafetería llamada “Su cafecito” ubicada en el Mercado Central de San José. En su primera reunión con los encargados del negocio se le describen algunos comportamientos que el sistema que se va a desarrollar debe tener en cuenta:
+
+    Tienen un sistema de fidelidad para el cliente mediante una tarjeta física impresa a la cual le ponen un sello por cada café que el cliente compre y cuando llegue a 8 sellos el cliente tiene derecho a un café gratis, sin embargo los clientes les indican que la tarjeta o se les deteriora o se les pierde por lo que les gustaría que fuera electrónica y que cuando digite en el sistema la identificación del cliente les avise que tienen un café gratis o que les falta N cantidad de cafés para cumplirlo. Adicionalmente desean que la cantidad de sellos (cafés tomados) sean consultables mediante una sitio web publicado en internet, y que pueda ser accedido mediante cualquier browser, y que no se tarde más de 3 segundos al consultarlo por identificación.
+    Necesitan poder dividir y unir cuentas de cualquier cliente.
+    A Ellos los visitan muchos extranjeros por lo que necesitan que el sistema facture en colones, dólares y con tarjetas de débito o crédito.
+    El sistema debe ser capaz de procesar la facturación de 5 comandas a la vez.
+    El gerente puede consultar el reporte de ventas diarias desde cualquier parte del mundo a cualquier hora del día, y la información se le debe desplegar en menos de 1 segundo.
+    El sistema puede ser accedido por diferentes usuarios y para accederlo se debe solicitar una contraseña segura.
+    La cafetería maneja muchos secretos en sus recetas y los dueños están dispuestos a invertir en que estas recetas están cifradas mediante el sistema y solo puedan ser accedidas con la firma de dos super usuarios del sistema.
+
+ 
+
+Se le solicita listar mediante un cuadro de 10 requerimientos funcionales y 10 requerimientos no funcionales que ud pudo desprender del texto anterior.
+
+Adicionalmente detalle 10 requerimientos no funcionales más que usted considere que este sistema debería de tomar en cuenta.
